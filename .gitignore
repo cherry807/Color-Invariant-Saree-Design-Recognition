@@ -1,0 +1,9 @@
+data/
+work/
+runs/
+results/
+nbtest/
+.kilo/
+__pycache__/
+*.pt
+*.pth

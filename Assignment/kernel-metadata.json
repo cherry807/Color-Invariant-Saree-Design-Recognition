@@ -1,0 +1,13 @@
+{
+  "id": "nethriyanethriya/saree",
+  "title": "saree",
+  "code_file": "saree_colorinvariant_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["div456/indian-saree-patterns"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
